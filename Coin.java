@@ -15,5 +15,10 @@ class Coin {
     void status(){
 	System.out.println("Heads: "+Heads+", Tails: "+Tails);
     }
+
+    void judge(){
+	if(Heads > Tails) System.out.println("You won");
+	else System.out.println("You lost");
+    }
 	
 }
