@@ -21,5 +21,6 @@ class Main2 {
 	}
 
 	c.status();
+	c.judge();
     }
 }
