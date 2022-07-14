@@ -13,5 +13,6 @@ class Main {
 	}
 
 	c.status();
+	c.judge();
     }
 }
